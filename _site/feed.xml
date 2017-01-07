@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈俊的博客123</title>
+    <description>欢迎来到我的个人站~</description>
+    <link>https://ziyanliu.github.io/</link>
+    <atom:link href="https://ziyanliu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Jan 2017 12:44:47 +0800</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2017 12:44:47 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>学习用Jekyll搭建个人博客</title>
+        <description>&lt;p&gt;最近手头上的项目终于告一段落，有空闲时间搞下其他有利于自己发展的事情，思前想后觉得是时候学着搭建一个属于自己的博客。还好身边有朋友&lt;code class=&quot;highlighter-rouge&quot;&gt;leopardpan&lt;/code&gt;会搞这个，然后就看着他发的一篇&lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll搭建个人博客&lt;/code&gt;学着也去自己搭建一个，目前还在学习阶段。&lt;/p&gt;
+
+&lt;p&gt;朋友的这篇博客地址 &lt;a href=&quot;http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/&quot;&gt;HEXO+Github,搭建属于自己的博客&lt;/a&gt; 有兴趣的可以去看下学习下，想了解更多 &lt;a href=&quot;http://baixin.io&quot;&gt;leopardpan&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Jan 2017 17:19:56 +0800</pubDate>
+        <link>https://ziyanliu.github.io/2017/01/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://ziyanliu.github.io/2017/01/welcome-to-jekyll/</guid>
+        
+        
+        <category>学习记录</category>
+        
+      </item>
+    
+      <item>
+        <title>2016年总结</title>
+        <description>&lt;p&gt;最近手头上的项目终于告一段落，有空闲时间搞下其他有利于自己发展的事情，思前想后觉得是时候学着搭建一个属于自己的博客。还好身边有朋友&lt;code class=&quot;highlighter-rouge&quot;&gt;leopardpan&lt;/code&gt;会搞这个，然后就看着他发的一篇&lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll搭建个人博客&lt;/code&gt;学着也去自己搭建一个，目前还在学习阶段。&lt;/p&gt;
+
+&lt;p&gt;朋友的这篇博客地址 &lt;a href=&quot;http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/&quot;&gt;HEXO+Github,搭建属于自己的博客&lt;/a&gt; 有兴趣的可以去看下学习下，想了解更多 &lt;a href=&quot;http://baixin.io&quot;&gt;leopardpan&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Jan 2017 17:19:56 +0800</pubDate>
+        <link>https://ziyanliu.github.io/2017/01/Summary-in-2016/</link>
+        <guid isPermaLink="true">https://ziyanliu.github.io/2017/01/Summary-in-2016/</guid>
+        
+        
+        <category>学习记录</category>
+        
+      </item>
+    
+  </channel>
+</rss>
