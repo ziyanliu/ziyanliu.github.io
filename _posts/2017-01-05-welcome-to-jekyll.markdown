@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "学习用Jekyll搭建个人博客"
+tags:  "学习"
 date:   2017-01-05 17:19:56 +0800
 categories: 学习记录
 ---
