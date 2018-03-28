@@ -12,20 +12,20 @@ categories: 总结
 
 ## 安装
 
-*一、下载Navicat Premium
+* 一、下载Navicat Premium
 
 1.进入官网[http://www.navicat.com.cn/products](http://www.navicat.com.cn/products) 点击免费使用
 
 2.找到macOS Navicat Premium 版本 12 这里有三个位置，如果点击的下载速度较慢 可以使用另一个位置试试 或许速度上有惊喜
 
 
-*二、下载DoubleLabyrinth/navicat-keygen
+* 二、下载DoubleLabyrinth/navicat-keygen
 
 地址[https://github.com/DoubleLabyrinth/navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
 
 注意切换到Mac版分支
 
-*破解
+* 破解
 
 1.打开终端 进入navicat-keygen 命令如下：
 
