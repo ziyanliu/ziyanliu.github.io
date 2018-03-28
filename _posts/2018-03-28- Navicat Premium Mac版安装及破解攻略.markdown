@@ -48,7 +48,7 @@ $ openssl rsa -in 2048key.pem -pubout -out rpk
 完成之后在navicat-keygen所在的文件夹中会出现 2048key.pem 和 rpk  如下图：
 
 
-<img src="/images/posts/navicat/navicat" height="160" width="600">
+<img src="/images/posts/navicat/navicat.png" height="160" width="600">
 
 3.用上一步得到的rpk替换Navicat Premium.app/Contents/Resources/rpk
 
