@@ -13,7 +13,7 @@ categories: 总结
 
 `NSAppTransportSecurity`
 
-3. ```bash  ```将某一段落放置在此中间显示是将段落加背景色，如下:
+3. ```bash  ```将某一段落放置在此中间显示是将段落加背景色加滚动条，如下:
 
 ```bash
 打完包后，显示包的内容找到Products -->Applications-->你的应用 拖到itunes中，然后打开包内容你就找到了ipa文件，将这个ipa上传到你的测试网站上就可以收到推送了。这步操作可以让你证书和描述文件匹配。  
